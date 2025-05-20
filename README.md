@@ -81,7 +81,7 @@ Model XG Boost Regressor menunjukkan hasil terbaik dari seluruh metrik evaluasi:
 |--------------|---------------|---------------|
 | $40.529,03          | 16.2%     | $27.901,88     |
 
-
+---
 **Limitasi model**
 
 Hanya dapat menggunakan fitur tertentu dan wilayah california saja
